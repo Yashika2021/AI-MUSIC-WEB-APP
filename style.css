@@ -18,7 +18,9 @@ body{
 }
 
 canvas{
-    border: solid white;
+    border: 5px solid white;
     margin-top: 150px;
     box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
 }
+
